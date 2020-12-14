@@ -47,6 +47,17 @@ Will run the commands from the filename
 - Check if default input/commands.txt is present. If not,
 - Take input from user directly
 
+
+## Test cases 
+
+python .\test_parking_lot.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK
+
+
 ## Output
 
 +++ - Indicates something is added
@@ -68,15 +79,3 @@ Slot No.        Registration No.        Driver_Age
 1               KA-01-HH-1234           21
 2               HR-29-TG-3098           39
 3               PB-01-TG-2341           40
-
-## Test cases 
-
-python .\test_parking_lot.py
-......
-----------------------------------------------------------------------
-Ran 6 tests in 0.002s
-
-OK
-
-
-
